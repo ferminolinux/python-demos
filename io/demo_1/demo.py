@@ -1,7 +1,6 @@
 
 originalPath = input('Send original file path: ')
 copyPath = input('Send a copy file path: ')
-line = 0
 
 
 with open(originalPath, 'r') as fileReader:
