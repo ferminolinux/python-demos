@@ -1,4 +1,4 @@
-#  using iterator concepts 
+# using iterator concepts
 def read_n_lines(path: str, lines: int) -> str:
     message = ""
 
