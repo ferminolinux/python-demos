@@ -1,2 +1,2 @@
 # demo-2
-Check file empty
+Write a program to check if the given file is empty or not
